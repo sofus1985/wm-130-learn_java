@@ -1,7 +1,6 @@
 package learn_basics.commenting;
 
 import java.util.Scanner;
-import learn_basics.access_modifiers.first_package.Access
 public class LearnCommenting {
 
 //     Single-line comment
@@ -19,7 +18,6 @@ public class LearnCommenting {
         System.out.println(doAddition(5, 10));
         Scanner obj = new Scanner(System.in);
     }
-
 
     /**
      * This method will accept 2 integers and return the sum of both of the integers
